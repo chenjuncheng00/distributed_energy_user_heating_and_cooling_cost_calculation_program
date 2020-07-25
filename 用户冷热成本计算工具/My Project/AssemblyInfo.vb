@@ -12,8 +12,8 @@ Imports System.Runtime.InteropServices
 <Assembly: AssemblyDescription("")>
 <Assembly: AssemblyCompany("上海发电设备成套设计研究院")>
 <Assembly: AssemblyProduct("用户冷热成本计算工具")>
-<Assembly: AssemblyCopyright("Copyright © 陈俊丞 2019")>
-<Assembly: AssemblyTrademark("Speri")>
+<Assembly: AssemblyCopyright("Copyright © 陈俊丞 SINCE 2016")>
+<Assembly: AssemblyTrademark("SPERI")>
 
 <Assembly: ComVisible(False)>
 

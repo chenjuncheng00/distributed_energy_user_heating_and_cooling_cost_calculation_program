@@ -253,7 +253,6 @@
     Private Sub 边界条件输入_Closed(sender As Object, e As EventArgs) Handles Me.Closed
         On Error Resume Next
         '关闭其它窗体
-        LoginForm.Close()
         设备年耗量计算.Close()
         计算结果显示.Close()
         计算方式选择.Close()

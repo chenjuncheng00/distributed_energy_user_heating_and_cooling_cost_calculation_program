@@ -9,11 +9,11 @@ Imports System.Runtime.InteropServices
 '查看程序集特性的值
 
 <Assembly: AssemblyTitle("用户冷热成本计算工具")>
-<Assembly: AssemblyDescription("")>
-<Assembly: AssemblyCompany("上海发电设备成套设计研究院")>
+<Assembly: AssemblyDescription("用户冷热成本计算工具")>
+<Assembly: AssemblyCompany("陈俊丞")>
 <Assembly: AssemblyProduct("用户冷热成本计算工具")>
 <Assembly: AssemblyCopyright("Copyright © 陈俊丞 SINCE 2016")>
-<Assembly: AssemblyTrademark("SPERI")>
+<Assembly: AssemblyTrademark("陈俊丞")>
 
 <Assembly: ComVisible(False)>
 
@@ -31,5 +31,5 @@ Imports System.Runtime.InteropServices
 ' 方法是按如下所示使用“*”: :
 ' <Assembly: AssemblyVersion("1.0.*")> 
 
-<Assembly: AssemblyVersion("1.2.1.0")>
-<Assembly: AssemblyFileVersion("1.2.1.0")>
+<Assembly: AssemblyVersion("1.2.1.1")>
+<Assembly: AssemblyFileVersion("1.2.1.1")>
